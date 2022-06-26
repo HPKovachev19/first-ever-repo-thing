@@ -1,9 +1,3 @@
-<p align="center">
-  <a href=" rel="noopener">
-    <img src="Photos/mazeLogo.png" alt="Logo" width=700" >
-  </a>
-</p>
-
 ## 📝 Table of Contents
 - [Description](#description)
 - [Built Using](#built_using)
@@ -18,8 +12,6 @@ This is a game of C++, made for the school project - "Maze Sprint". The aim of t
 - [Word](https://www.microsoft.com/en-us/microsoft-365/word) - Documentation
 - [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - Presentation
 - [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - QA Documentation
-
-
 
 ## 👥 Authors <a name="authors"></a>
 - [Martin Mechkov](https://github.com/Mmmechkov19) - Scrum Trainer 
