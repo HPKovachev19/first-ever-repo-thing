@@ -1,6 +1,8 @@
+
+
 <p align="center">
   <a href=" rel="noopener">
-    <img src="Images/chimera_logo.png" alt="Logo" width=700" >
+    <img src="Photos/mazeLogo.png" alt="Logo" width=700" >
   </a>
 </p>
 
@@ -11,25 +13,23 @@
 - [Presentation and Documentation](#documentation)
 
 ## 📖 Description <a name="description"></a>
-Mickey is a classical gameboy styled game. It's story takes place in a world where dog shelters make the unwanted animals into delivery employees. Our main character Mickey, has forgot his old owner, but he gets his memory back after exploring the old town he used to be in while working. In the game you have to go through some obstacles and deliver packages to every client. That's where he meets him.
+This is a game of C++, made for the school project - "Maze Sprint". The aim of the game is to get out of a maze with 3 levels of difficulty - easy, medium, and hard. Each time, the program generates a new maze for the user using Recursive Backtracking Algorithm.
 
 ## 💻 Built Using <a name="built_using"></a>
 - [Visual Studio](https://visualstudio.microsoft.com/) - Application
 - [Word](https://www.microsoft.com/en-us/microsoft-365/word) - Documentation
 - [PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - Presentation
 - [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - QA Documentation
-- [Visual Studio Code](https://code.visualstudio.com/) - Website
-- [Krita](https://krita.org/en/) - Game graphics and logo
+
 
 
 ## 👥 Authors <a name="authors"></a>
-- [Yoan Gavrilov](https://github.com/YAGavrilov19) - QA Engineer
-- [Hristo Kovachev](https://github.com/HPKovachev19) - Scrum Trainer
-- [Konstantin Dinev](https://github.com/KKDinev20) - Back-End Developer
-- [Hristiqn Petrov](https://github.com/HMPetrov20) - Back-End Developer
-- [Galq Ivanova](https://github.com/GAIvanova20) - Back-End Developer
-- [Valeriq Chavdarova](https://github.com/VDChavdarova21) - Front-End Developer
-- [Teodora Lozeva](https://github.com/TLLozeva21) - Front-End Developer
+- [Martin Mechkov](https://github.com/Mmmechkov19) - Scrum Trainer 
+- [Hristo Kovachev](https://github.com/Hpkovachev19) - Front-End Developer
+- [Mariya Ilcheva](https://github.com/Mzilcheva19) - Back-End Developer
+- [Vanina Teneva](https://github.com/Vnteneva19) - QA Engineer
 
 ## 📋 Presentation and Documentation <a name="documentation"></a>
-- [Presentation](https://github.com/codingburgas/2122-the-games--adventures-chimera/tree/main/Documents)
++ [Documentation](https://github.com/MMMechkov19/Untitled/blob/main/Documents/Documentation/Untitled-Documentation.docx)
++ [Presentation](https://github.com/MMMechkov19/Untitled/tree/main/Documents/Presentation)
++ [Table with functions](https://github.com/MMMechkov19/Untitled/tree/main/Documents/Documentation/html)
