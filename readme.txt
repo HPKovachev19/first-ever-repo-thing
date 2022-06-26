@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href=" rel="noopener">
     <img src="Photos/mazeLogo.png" alt="Logo" width=700" >
